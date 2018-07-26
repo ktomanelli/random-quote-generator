@@ -1,3 +1,31 @@
-.backg{
-	background-color:#000000;
+
+body{
+	padding-top:10%;
+	background-image: url(floral4.jpg);
+
+}
+.quote{
+	padding:4%;
+	font-size:250%;
+	color:#F5F5DC;
+	font-family:Raleway;
+	font-style: normal;
+
+}
+.cat{
+		padding:4%;
+	font-size:450%;
+	color:black;
+
+font-style: normal;
+font-weight: 700;
+
+}
+.container {
+ 
+  justify-content: center;
+}
+.center {
+ 		padding:25px;
+    	border-radius: 25px;
 }
